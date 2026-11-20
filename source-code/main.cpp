@@ -2,7 +2,42 @@
 using namespace std;
 
 // ========================================
+// TUGAS INFORMATIKA KELAS XII#include <iostream>
+using namespace std;
+
+// ========================================
 // TUGAS INFORMATIKA KELAS XII
+// IMPLEMENTASI ALGORITMA DALAM C++
+// ========================================
+
+// Nama Lengkap :
+// Kelas        :
+// Nomor Absen  :
+// Judul Program:
+
+int main() {
+
+    // 1. DEKLARASI VARIABEL
+    float L,p,l;
+
+
+    // 2. INPUT
+    cout <<"input nilai panjang";
+    cin >>p;
+   cout <<"input nilai lebar";
+     cin >>l;
+
+
+    // 3. PROSES
+  L=p*l;
+
+
+    // 4. OUTPUT
+    cout<<"tampilkan luas persegi panjang";<<L;
+
+
+    return 0;
+}
 // IMPLEMENTASI ALGORITMA DALAM C++
 // ========================================
 
